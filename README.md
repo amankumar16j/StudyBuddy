@@ -1,4 +1,4 @@
-# StydyBuddy
+# StudyBuddy
 Dive into a world of code with CodeMastery, the ultimate online learning platform designed to ignite your passion for programming. Our beginner-friendly platform is designed to make learning to code easy and fun, with step-by-step tutorials that guide you through the basics.
 
 
